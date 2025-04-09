@@ -33,7 +33,7 @@ h1{
   font-weight: 700;
   border: none;
   border-radius:3px;
-  margin-top: 25px;
+  margin-top: 3rem;
   transition: background-color 0.50s;
 }
 .nasa-btn:hover{
@@ -46,10 +46,14 @@ h1{
 {
   display: flex;
   justify-content: space-between;
+  margin-top: 8em;
   
 }
 .global-text,.global-text2,.global-text3{
   margin-top: 25px;
+  background-color: rgba(66, 25, 25, 0.3);
+  backdrop-filter: blur(20px);
+  padding: 6px;
 }
 .paragraph
 {

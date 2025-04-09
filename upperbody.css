@@ -39,7 +39,7 @@ h1{
 .nasa-btn:hover{
   background-color: red;
 }
-hr{
+.Text-section hr{
   margin-top: 150px;
 }
 .upper-bottom-section
@@ -361,3 +361,9 @@ hr{
  width: 150px;
 }
 
+.card-img
+{
+  object-fit: cover;
+  width: 100%;
+  height: -webkit-fill-available;
+}
